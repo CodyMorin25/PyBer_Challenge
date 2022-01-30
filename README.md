@@ -7,7 +7,7 @@ The purpose of this analysis is to explore the PyBer ride sharing data to gain a
 ## Results:
 
 ### The following Chart has the Summary and Statistical Overview of the PyBer Data
-![PyBer_Summary](https://github.com/CodyMorin25/PyBer_Challenge/blob/main/analysis/Pyber_fare_summary.png)
+![PyBer_Summary](https://github.com/CodyMorin25/PyBer_Challenge/blob/main/analysis/pyber_summary_dataframe.png)
 
 After reviewing the findings from the analysis there are a few key ones.
 
